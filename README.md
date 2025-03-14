@@ -28,6 +28,8 @@ The DNN model uses a multi-layer perceptron architecture with dropout regulariza
 - Visualization of prediction results
 
 The DNN architecture consists of three hidden layers (64, 32, and 16 neurons) with ReLU activation functions and dropout layers to prevent overfitting.
+MAE: 1876.8885, RMSE: 4563.8156, R²: 0.9255
+
 
 ### 2. Convolutional Neural Network (CNN_model.ipynb)
 
