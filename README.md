@@ -125,12 +125,10 @@ This project satisfies the requirements specified in the ML Intern task:
 ## Contact
 
 For any questions or feedback regarding this project, please contact:
-[Your Name] - [Your Email]
+[Vinay Singh] - [vs1739561@gmail.com]
 
 Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/51139083/7d388284-5981-4dbb-94c7-98db17b95d98/DNNmodel.py
 [2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/51139083/4ed8ce3b-1344-49a8-9cfa-959453b2c6ea/Task-for-ML-Intern.docx
 [3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/51139083/f282d968-a1dd-48a9-b2f0-ac04e18400e9/CNN_model.ipynb
 
----
-Answer from Perplexity: pplx.ai/share
